@@ -1,0 +1,7 @@
+{
+  "name": "IonicApiRestConnect",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
